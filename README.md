@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -39,32 +35,42 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Screenshots of Website :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Main Page Light Mode: 
+![Screenshot 2023-05-23 084053](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/a755e6ed-aebd-485c-88a3-39deff651404)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Main Page Dark Mode: 
+![Screenshot 2023-05-23 093638](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/407eccfe-4da6-4cf8-9a61-7372b3ad2966)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Home Page Light Mode: 
+![Screenshot 2023-05-23 084153](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/46f21ef2-900a-4e85-b689-dd4216f189d2)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Home Page Light Mode: 
+![Screenshot 2023-05-23 084606](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/b18dac2a-c154-4be9-b7ff-a4b96984d2cd)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Some Manipulating Text Page Screenshot : 
+![Screenshot 2023-05-23 084313](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/897233b4-60e7-4c6c-9bea-d4a178777883)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Screenshot 2023-05-23 084338](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/bbbb860b-8eca-470b-a517-9cf9ba11a023)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2023-05-23 084408](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/8755063b-9e81-4c07-827c-5c89176177a7)
+
+
+![Screenshot 2023-05-23 084246](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/271510e6-b63d-4f42-acbe-40c36a94bfca)
+
+
+About Us Page : 
+![Screenshot 2023-05-23 084449](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/93917b73-1e87-4bcb-8165-b1310d54b997)
+
+
+Follow Us Page : 
+![Screenshot 2023-05-23 084519](https://github.com/JayMathasoliya/TextUtils_Website/assets/105806992/56e5919a-66ec-4d27-81a6-2e8b239f310f)
+
