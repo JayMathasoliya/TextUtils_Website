@@ -1,0 +1,50 @@
+.colorContainer{
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+
+.bgContainer{
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+.txtContainer{
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+.toggleContainer{
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .colorContainer{
+      display: flex;
+      flex-direction: column;
+      margin: 0px;
+      padding: 0px;
+      align-items: flex-start;
+    }
+
+    .bgContainer{
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom: 1.2rem;
+    }
+    
+    .txtContainer{
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom: 1.2rem;
+    }
+
+    .toggleContainer{
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom: 1.2rem;
+    }
+
+   
+}
